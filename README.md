@@ -7,7 +7,7 @@ Task.
 
 Ejemplo:
 
-from Sched import Coop_Sched
+    from Sched import Coop_Sched
 
     class Task1():
 
