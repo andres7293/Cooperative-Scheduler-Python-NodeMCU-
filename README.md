@@ -31,3 +31,11 @@ Ejemplo:
     scheduler.Add_Task(t2)
     #Start scheduler
     scheduler.Start()
+    
+   
+Y la salida en consola será:
+Task 1
+2
+Task 1
+2
+...
